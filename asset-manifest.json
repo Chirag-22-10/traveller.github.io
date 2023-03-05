@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Traveller/static/css/main.073c9b0a.css",
-    "main.js": "/Traveller/static/js/main.54df0e8c.js",
-    "static/js/787.918cb5c6.chunk.js": "/Traveller/static/js/787.918cb5c6.chunk.js",
-    "static/media/logo.svg": "/Traveller/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Traveller/index.html",
-    "main.073c9b0a.css.map": "/Traveller/static/css/main.073c9b0a.css.map",
-    "main.54df0e8c.js.map": "/Traveller/static/js/main.54df0e8c.js.map",
-    "787.918cb5c6.chunk.js.map": "/Traveller/static/js/787.918cb5c6.chunk.js.map"
+    "main.css": "/traveller.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/traveller.github.io/static/js/main.7ff4d784.js",
+    "static/js/787.918cb5c6.chunk.js": "/traveller.github.io/static/js/787.918cb5c6.chunk.js",
+    "static/media/logo.svg": "/traveller.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/traveller.github.io/index.html",
+    "main.073c9b0a.css.map": "/traveller.github.io/static/css/main.073c9b0a.css.map",
+    "main.7ff4d784.js.map": "/traveller.github.io/static/js/main.7ff4d784.js.map",
+    "787.918cb5c6.chunk.js.map": "/traveller.github.io/static/js/787.918cb5c6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.54df0e8c.js"
+    "static/js/main.7ff4d784.js"
   ]
 }
